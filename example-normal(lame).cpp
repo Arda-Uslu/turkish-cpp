@@ -30,12 +30,13 @@ int main(){
   cout << a<<endl;
   cin >> b;
   
-  if(){
-    
-  }else if(){
-  
+  if(b>10){
+     hesapla(b);
+  }else if(b<0){
+    cout << "furki--"<<endl;
   }else{
-  
+    cout << son <<endl;
   }
   
+  return 0;
 }
