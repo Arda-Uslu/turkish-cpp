@@ -24,7 +24,18 @@ int hesapla(int x){
 int main(){
   
   int a=10;
-  long c;
-  string kaybettin="Kaybettin";
+  long b;
+  string son="Kaybettin";
+  
+  cout << a<<endl;
+  cin >> b;
+  
+  if(){
+    
+  }else if(){
+  
+  }else{
+  
+  }
   
 }
