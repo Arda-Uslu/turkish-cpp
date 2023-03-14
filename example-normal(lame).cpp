@@ -15,6 +15,11 @@ class A{
 A::A(int c){
   cout << c<< endl;
 }
+
+int hesapla(int x){
+ 
+   A a(x);
+}
   
 int main(){
   
