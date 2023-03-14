@@ -7,12 +7,14 @@ class A{
   public:
   
   int a;
-  A();
+  A(int);
   private:
   
 };
 
-A::A(){
+A::A(int c){
+  cout << c<< endl;
+}
   
 int main(){
   
