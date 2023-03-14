@@ -70,3 +70,6 @@ int BITIR(){
 #define ad_boslugu namespace
 
 #define alan ::
+
+#define harita std::map
+
