@@ -39,8 +39,9 @@ int BITIR(){
 
 #define eger if
 #define degilse else
-#define iken while
-#define icen for
+
+#define dongu while
+#define icin for
 
 #define DOGRU true
 #define YANLIS false
